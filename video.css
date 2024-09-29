@@ -63,7 +63,7 @@
 }
 @media (max-width:761px) {
     .grid-vid {
- 
+ margin-top: 32px;
     }
     .viewers,.name {
         font-size: 14px;

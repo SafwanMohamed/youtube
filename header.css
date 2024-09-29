@@ -12,6 +12,11 @@
     border-bottom-style:solid ;
     z-index: 5;
 }
+@media (max-width:800px){
+   .header{
+      height: 100px;
+   }
+}
 .mid-section {
   
   margin-left: 4%;
@@ -148,5 +153,5 @@
    height: 32px;
    width: 32px;
    border-radius: 16px;
-   
+   object-fit: cover;
 }

@@ -6,8 +6,7 @@ p {
 }
 body {
     margin: 0px;
-    height: 1000px;
-    
+    overflow:scroll;
     background-color: rgb(246, 246, 246);
     margin-top: 11px;
    

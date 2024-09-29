@@ -8,9 +8,12 @@
     z-index: 6;
     padding-top: 5px;
 }
-.sidebar {
-   
-}
+@media (max-width:768px){
+   .sidebar{
+    
+   }
+ }
+
 .sidebox {
     height: 74px;
     display: flex;
